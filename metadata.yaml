@@ -1,0 +1,32 @@
+_repo: Whip-and-Spur_44492
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44492-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Waring, George E. (George Edwin)
+    alias: Waring, George Edwin
+    birthdate: 1833
+    deathdate: 1898
+    gutenberg_agent_id: '8689'
+    url: http://www.gutenberg.org/2009/agents/8689
+    wikipedia: http://en.wikipedia.org/wiki/George_E._Waring,_Jr.
+description: ''
+gutenberg_issued: '2013-12-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44492'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'SF'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives'
+- !lcsh 'Fox hunting'
+- !lcsh 'Horses'
+tableOfContents: Vix -- Ruby -- Wettstein -- Campaigning with Max -- How I got my
+  overcoat -- Two scouts -- In the gloaming -- Fox-hunting in England.
+title: Whip and Spur
+url: http://www.gutenberg.org/ebooks/44492
